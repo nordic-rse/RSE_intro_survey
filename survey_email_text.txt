@@ -1,0 +1,20 @@
+Scientific research is vital to the lives of Nordics,
+and software has become increasingly crucial to this research.
+To ensure that the software development meet the needs 
+of Nordic research community, we’d like to learn more about 
+those of you who write this software and how to better support you.
+Whether you develop software for research in an academic, government, 
+non-profit or commercial environment - full-time or part-time - 
+we’d like to hear from you.
+
+Nordic RSE (Research Software Engineering) , as part
+of International RSE network, is pleased to invite you
+to participate in this 5 minutes survey on Nordic Research Software.
+
+| Launch Survey |
+
+We do not collect any personally identifiable information.
+To be informed about the results of this survey and other
+items of interest to research software developers,
+visit http://nordic-rse.no, Follow us on Twitter 
+and/or sign up for the Nordic RSE mailing list.
