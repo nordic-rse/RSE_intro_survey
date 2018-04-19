@@ -1,15 +1,16 @@
-The quality of research software is vital for scientific research in the
-Nordics and beyond.
-To ensure that the software development meets the needs
-of the Nordic research community, we would like to learn more about
-those of you who write this software and how to better support you.
+Research within many diverse scientific domains is dependent on research software 
+used to generate scientific results through statistical analysis, simulation and modeling.
+To understand better the various environments in which software development takes 
+place in Nordic research communities and what can be done to support them, 
+the Nordic RSE (Research Software Engineer) group would like to learn more about 
+the people who write software as part of their work.
+
+We are part of an International RSE network and want to bring the benefits of RSE community
+engagement to the Nordics. As a first step along this path, we are pleased to invite you
+to participate in this short 5 minute survey on the situation of Nordic research software development.
 Whether you develop software for research in an academic, government,
 non-profit or commercial environment - full-time or part-time -
 we would like to hear from you.
-
-Nordic RSE (Research Software Engineers), as part
-of International RSE network, is pleased to invite you
-to participate in this 5 minutes survey on Nordic Research Software.
 
 | Launch Survey |
 
