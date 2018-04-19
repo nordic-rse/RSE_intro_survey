@@ -1,5 +1,5 @@
-Scientific research is vital to the lives of Nordics,
-and software has become increasingly crucial to this research.
+The quality of research software is vital for scientific research in the
+Nordics and beyond.
 To ensure that the software development meets the needs
 of the Nordic research community, we would like to learn more about
 those of you who write this software and how to better support you.
