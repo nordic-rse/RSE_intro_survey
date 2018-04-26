@@ -5,12 +5,16 @@ place in Nordic research communities and what can be done to support them,
 the Nordic RSE (Research Software Engineer) group would like to learn more about 
 the people who write software as part of their work.
 
-We are part of an International RSE network and want to bring the benefits of RSE community
-engagement to the Nordics. As a first step along this path, we are pleased to invite you
-to participate in this short 5 minute survey on the situation of Nordic research software development.
+We are part of an International RSE network (http://researchsoftware.org/) 
+and want to bring the benefits of RSE community
+engagement to the Nordics. As a first step along this path, we are pleased 
+to invite you to participate in this short 5 minute survey on the situation
+of Nordic research software development.
 Whether you develop software for research in an academic, government,
 non-profit or commercial environment - full-time or part-time -
 we would like to hear from you.
+If you would like to join us in building the comunity, please read
+(http://researchsoftware.org/join)
 
 | Launch Survey |
 
