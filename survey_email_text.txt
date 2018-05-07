@@ -13,13 +13,13 @@ of Nordic research software development.
 Whether you develop software for research in an academic, government,
 non-profit or commercial environment - full-time or part-time -
 we would like to hear from you.
-If you would like to join us in building the comunity, please read
-(http://researchsoftware.org/join)
 
-| Launch Survey |
+To participate in the survey, please follow the link:
+http://nordic-rse.org/survey
 
-We do not collect any personally identifiable information.
-To be informed about the results of this survey and other
-items of interest to research software developers,
-visit http://nordic-rse.no, follow us on Twitter
-and/or sign up for the Nordic RSE mailing list.
+We do not collect any personally identifiable information. 
+To be informed about the results of this survey and other items of interest 
+to research software developers, visit http://nordic-rse.org, follow us on Twitter (https://twitter.com/nordic_rse)
+and/or sign up for the Nordic RSE mailing list (https://mailman-mail5.webfaction.com/listinfo/nordicrse-discuss).
+
+If you would like to join us in building the community, please read (http://nordic-rse.org/join)
