@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.955324, 69.649208]
+      },
+      "properties": {
+        "name": "Radovan Bast",
+		"group": "High Performance Computing Group", 
+        "workplace": "The Arctic University of Norway",
+		"city": "Tromso",
+        "country.etc": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.757933, 59.911491]
+      },
+      "properties": {
+        "name": "Anne Fouilloux",
+		"group": "IT group, Department of Geosciences", 
+        "workplace": "The University of Oslo",
+		"city": "Oslo", 
+        "country.etc": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.421906, 63.446827]
+      },
+      "properties": {
+        "name": "Radek Lonka",
+		"group": "Digital Laboratory, Industrial Ecology Programme, Trondheim", 
+        "workplace": "Norwegian University of Science and Technology",
+		"city": "Trondheim", 
+        "country.etc": "NO"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.421906, 63.446827]
+      },
+      "properties": {
+        "name": "Konstantin Stadler",
+		"group": "Digital Laboratory, Industrial Ecology Programme, Trondheim", 
+        "workplace": "Norwegian University of Science and Technology",
+		"city": "Trondheim", 
+        "country.etc": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.063240, 59.334591]
+      },
+      "properties": {
+        "name": "K. Thor Wikfeldt",
+		"group": "PDC Center for High-Performance Computing", 
+        "workplace": "KTH Royal Institute of Technology in Stockholm",
+		"city": "Stockholm", 
+        "country.etc": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.943646, 51.621441]
+      },
+      "properties": {
+        "name": "Jarno Rantaharju",
+		"group": "Swansea Academy of Advanced Computing", 
+        "workplace": "Swansea University",
+		"city": "Swansea", 
+        "country.etc": "UK"
+      }
+    }
+  ]
+}
